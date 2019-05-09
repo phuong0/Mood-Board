@@ -1,0 +1,19 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #DC143C;
+}
+#top{
+    border: 3px groove black;
+    padding:1px;
+}
+#inputs{
+    margin: 30px;
+}
+.imgs{
+    width:300px;
+}
+.mood {
+    text-align:center;
+}
